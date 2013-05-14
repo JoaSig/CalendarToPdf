@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+/target
+*.DS_Store
+*.ics
+*.iml
+*.project
+*.classpath
+*.pdf
+*.xml
+*.name
+*.ant
+*.settings
